@@ -1,6 +1,7 @@
-# PART 1 : You just need to run powershell script to trigger the test, I did not test it as running powershell scripts are forbidden in company laptops. Ideally it should work else, please run them step by step in powershell.
 
-# PART 2: Details are part of infra.md
+PART 1 : You just need to run powershell script to trigger the test, I did not test it as running powershell scripts are forbidden in company laptops. Ideally it should work else, please run them step by step in powershell.
+
+PART 2: Details are part of infra.md
 
 _____________________________________________________________________________________________________________________
 
