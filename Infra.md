@@ -19,6 +19,4 @@ Answer:
    Security groups to control traffic at the instance level
 6. For Developers to deploy the code in an automated manner, they can make use of CICD approach with either flux or Argo gitops approach.
 
-
-
-![Uploading image.png…]()
+![image](https://github.com/pacha5065/Axi/assets/28640408/b7e16a52-8ffd-4ff8-b1e2-dfb51971f8af)
