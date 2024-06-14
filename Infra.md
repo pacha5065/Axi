@@ -1,4 +1,4 @@
-![image](https://github.com/pacha5065/Axi/assets/28640408/24738b4a-34cf-4243-9389-cb0840d01103)
+
 Question: 
 You are tasked with setting up a kubernetes cluster to host new web services. The web services will be providing a public API to an existing internal systems. The internal systems are hosted on a virtual network named "internal-assets", and it is imperative that a high level of security is maintained around this virtual network. Please provide a brief description of the infrastructure you would put in place. You can describe your set up in words or pictures, but please ensure you account for the following constraints:
 
