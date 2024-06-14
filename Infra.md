@@ -11,7 +11,7 @@ The cluster will need to be able to access pre-existing internal systems on the 
 Answer:
 
 1. I will be using AWS for hosting these web services.
-2. We can host these web services within the AWS but in a different VPC where the ELB is deployed.
+2. We can host these new web services within the AWS but in a different VPC and connect to internal assets using either a VPN or AWS direct connect.
 3. So that, we can do VPC peering between the VPC which is hosting the internal systems and expost them through this ELB
 4. To get a notification on failures, we can configure the ELB such way that we keep doing the health checks of webservices from the internal systems. For extra logging and monitoring we can use AWS cloud watch
 5. We can keep this network securily by introducing
@@ -19,3 +19,6 @@ Answer:
    Security groups to control traffic at the instance level
 6. For Developers to deploy the code in an automated manner, they can make use of CICD approach with either flux or Argo gitops approach.
 
+
+
+![Uploading image.png…]()
